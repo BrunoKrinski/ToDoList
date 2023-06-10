@@ -4,10 +4,10 @@
 
 ### [https://brunokrinski.github.io/ToDoList/#/](https://brunokrinski.github.io/ToDoList/#/)
 
-![example1](images/1a.png)
+![example1](images/1.png)
 
-![example2](images/2a.png)
+![example2](images/2.png)
 
-![example3](images/3a.png)
+![example3](images/3.png)
 
-![example3](images/4a.png)
+![example3](images/4.png)
